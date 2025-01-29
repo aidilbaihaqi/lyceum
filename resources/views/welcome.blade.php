@@ -106,7 +106,7 @@
 
         <div class="grow">
           <h1 class="text-lg font-medium text-gray-800 dark:text-neutral-200">
-            Eliana Garcia
+            Aidil Baihaqi Gans Parah Euy
           </h1>
           <p class="text-sm text-gray-600 dark:text-neutral-400">
             Graphic Designer, Web designer/developer
